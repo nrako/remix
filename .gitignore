@@ -2,6 +2,7 @@
 
 /build/
 /packages/*/dist/
+!/packages/remix-react/dist/
 /packages/*/LICENSE.md
 node_modules/
 yarn-error.log
